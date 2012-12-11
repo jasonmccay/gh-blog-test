@@ -8,4 +8,4 @@ I think I need a list here.
 * Paper
 * Metal
 * Wood
-
+* Glass
